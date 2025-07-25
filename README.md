@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **Junior Frontend Developer** who
 - 👯 Looking to collaborate on open-source frontend projects
 - 📚 Continuously learning best practices in web development
 
-### 📈 GitHub Stats
-
-![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeerYasen&show_icons=true&theme=radical)
 
 ### 🛠️ Languages & Tools
 
@@ -64,4 +61,4 @@ Welcome to my GitHub profile! I'm a passionate **Junior Frontend Developer** who
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmeerYasen&color=brightgreen)
 
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate! 🚀
+Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate! 🚀
