@@ -1,84 +1,67 @@
-Of course. Here is a less detailed version of the README file.
+# Hi there, I'm Ameer Yasen! 👋
 
------
+## 🚀 Frontend Developer | Building Digital Experiences
 
-# AcadRev - Academic Review & Accreditation Management System 🎓
+Welcome to my GitHub profile! I'm a passionate **Junior Frontend Developer** who loves creating beautiful, responsive, and user-friendly web applications. I'm always eager to learn new technologies and contribute to exciting projects.
 
-[](https://github.com/Red0Zone/acadRev-FrontEnd)
-[](https://reactjs.org/)
-[](https://vitejs.dev/)
-[](https://tailwindcss.com/)
-[](https://www.google.com/search?q=LICENSE)
+### 💻 Tech Stack & Skills
 
-A comprehensive web application for managing academic institutions' accreditation processes, reviews, and quality assurance workflows.
+**Frontend Development:**
+- 🌟 **JavaScript** - Building dynamic and interactive web applications
+- ⚛️ **React** - Creating component-based user interfaces
+- 🎨 **Tailwind CSS** - Crafting modern, responsive designs
+- 🏗️ **HTML & CSS** - Solid foundation in web fundamentals
 
-## 🚀 Live Demo
+**Backend & Database:**
+- ☕ **Java** - Object-oriented programming and application development
+- 🐘 **PHP** - Server-side scripting and web development
+- 🟢 **Node.js & Express** - Building RESTful APIs and server applications
+- 🍃 **MongoDB** - NoSQL database management
+- 🐬 **MySQL** - Relational database design and queries
 
-🌐 **Website**: [https://acadrev.systems](https://acadrev.systems)
+### 🌟 What I'm Currently Working On
+- 🔭 Building responsive web applications with React and Tailwind CSS
+- 🌱 Expanding my knowledge in modern JavaScript frameworks
+- 👯 Looking to collaborate on open-source frontend projects
+- 📚 Continuously learning best practices in web development
 
-## ✨ Features
+### 📈 GitHub Stats
 
-  - 🏛️ **Multi-Level Institution Management**: Oversee universities, colleges, departments, and programs.
-  - 📊 **Assessment & Review System**: Track quantitative and qualitative assessments in real-time.
-  - 📈 **Analytics & Reporting**: Interactive dashboards and comprehensive reports with PDF export.
-  - 👥 **User Management**: Role-based access control (Admin, Staff, Reviewer) and collaboration.
-  - 🌍 **Internationalization**: Multi-language support (English/Arabic) with RTL compatibility.
-  - 🎨 **Modern UI/UX**: Responsive design with Dark/Light themes and smooth animations.
+![Ameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeerYasen&show_icons=true&theme=radical)
 
-## 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-  - **Framework**: React 19, Vite, React Router
-  - **Styling**: TailwindCSS, PrimeReact, Framer Motion
-  - **State & Data**: React Context, Axios
-  - **Charts**: Chart.js, Recharts
-  - **Internationalization**: i18next
-  - **Development**: ESLint, gh-pages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🚀 Getting Started
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmeerYasen&theme=radical)
 
-### **Prerequisites**
+### 📫 Let's Connect!
 
-  - Node.js (v18.0.0 or higher)
-  - npm (v8.0.0 or higher) or yarn
-  - Git
+- 💼 **LinkedIn:** [Connect with me on LinkedIn]() <!-- Add your LinkedIn URL here -->
+- 💬 **Ask me about:** JavaScript, React, Frontend Development, or any tech-related topics!
+- 📧 **How to reach me:** Feel free to reach out through GitHub or LinkedIn
+- ⚡ **Fun fact:** I believe great user experiences start with clean, efficient code!
 
-### **Installation & Setup**
+### 🎯 2025 Goals
+- 🚀 Contribute to more open-source projects
+- 📱 Learn React Native for mobile development
+- 🔧 Master advanced JavaScript concepts
+- 🌐 Build a full-stack application from scratch
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/Red0Zone/acadRev-FrontEnd.git
-    cd acadRev-FrontEnd
-    ```
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-3.  **Set up environment variables:**
-      - Copy `.env.example` to `.env` and fill in your details, such as the `VITE_API_URL`.
-    <!-- end list -->
-    ```bash
-    cp .env.example .env
-    ```
-4.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
+---
 
-## 📜 Available Scripts
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-| Script            | Description                               |
-| ----------------- | ----------------------------------------- |
-| `npm run dev`     | Start the development server with HMR.    |
-| `npm run build`   | Build the app for production.             |
-| `npm run preview` | Preview the production build locally.     |
-| `npm run lint`    | Run the linter to check code quality.     |
-| `npm run deploy`  | Deploy the app to GitHub Pages.           |
+![Profile Views](https://komarev.com/ghpvc/?username=AmeerYasen&color=brightgreen)
 
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
------
-
-**Made with ❤️ for Academic Excellence**
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate! 🚀
